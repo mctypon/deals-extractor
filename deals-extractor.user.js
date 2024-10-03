@@ -7,6 +7,7 @@
 // @author      mctypon
 // @description Extract comments, title, and description from Dealabs pages and copy to clipboard.
 // @icon        https://www.dealabs.com/favicon.ico
+// @updateURL   https://github.com/mctypon/deals-extractor/raw/refs/heads/main/deals-extractor.user.js
 // ==/UserScript==
 
 (function() {
